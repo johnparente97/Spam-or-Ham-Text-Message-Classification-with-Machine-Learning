@@ -6,6 +6,6 @@ A SVM is then built and trained on the data. The TFID vectorizers converts the t
 Gradio is then deployed to interact with the text classification model in the jupyter notebook. Users can input text messages and get predictions for whether or not they're spam or ham.  
 
 Resources:
-Module 21 Challenge Files
-Github Copilot
+Module 21 Challenge Files,
+Github Copilot,
 Chat GPT
